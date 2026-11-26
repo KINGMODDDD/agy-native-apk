@@ -1,0 +1,3 @@
+-keepattributes *Annotation*
+-keepclassmembers class com.agy.nativeapp.model.** { *; }
+-dontwarn kotlinx.serialization.**
